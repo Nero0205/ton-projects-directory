@@ -1,6 +1,6 @@
 <a href="https://ton.org/">
 	<img width="100%" src="./assets/images/ecosystem.png" alt="TON Ecosystem" />
-</a>
+</a>     
 
 ## A collection of live projects within the TON Ecosystem
 
